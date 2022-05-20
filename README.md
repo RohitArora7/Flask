@@ -1,6 +1,6 @@
 # Flask
 
-app.py
+**App.py**
 
 ```bash
 from flask import Flask
@@ -17,7 +17,7 @@ if __name__ == "__main__":
 ```
 
 
-Start
+**Start**
 ```bash
 
 pip install --upgrade pip virtualenv virtualenvwrapper
@@ -33,13 +33,13 @@ python3 app.py
 ```
 
 
-Browser
+**Browser**
 ```bash
 http://localhost:5000/
 ```
 
 
-log
+**log**
 ```bash
  * Serving Flask app 'app' (lazy loading)
  * Environment: production
