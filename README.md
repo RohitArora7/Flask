@@ -32,6 +32,10 @@ or
 pip3 install flask flask-sqlalchemy
 
 python3 app.py
+
+flask run --host=0.0.0.0 --port=7001
+
+app.run(host='0.0.0.0', port=80)
 ```
 
 
